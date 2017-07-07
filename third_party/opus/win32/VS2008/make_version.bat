@@ -1,0 +1,1 @@
+"..\..\win32\genversion.bat" "..\..\win32\version.h" PACKAGE_VERSION

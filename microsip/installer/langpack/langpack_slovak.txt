@@ -1,0 +1,311 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Volať
+[End Call]
+Koniec hovoru
+[Contacts]
+Kontakty
+[Dialpad]
+Klávesnica
+[Account]
+Konto
+[Settings]
+Nastavenia
+[Visit Website]
+Navštíviť webovú lokalitu
+[Exit]
+Zavrieť
+[Ringing Sound]
+Zvuk zvonenia
+[Browse...]
+Prechádzať ...
+[Default]
+Prednadstavené zariadenie
+[Auto Answer]
+Automatická odpoveď
+[Disable Local Account]
+Vypnúť lokálny účet
+[OK]
+Potvrdiť
+[Save]
+Uložiť
+[Cancel]
+Zrušiť
+[SIP Server]
+Server SIP
+[SIP Proxy]
+Proxy SIP
+[User]
+Požívateľ
+[Domain]
+Doména
+[Password]
+Heslo
+[Connecting...]
+Pripája sa ...
+[Online]
+Pripojené
+[Local]
+Lokálny
+[Message]
+Odoslať správu
+[Edit]
+Upraviť
+[Delete]
+Vymazať
+[Add]
+Pridať
+[Bad Gateway]
+Nesprávna brána
+[Request Timeout]
+Časový limit vypršal
+[Number]
+Číslo
+[Name]
+Meno
+[Contact]
+Kontakt
+[Incoming Call]
+Prichádzajúci hovor
+[Answer]
+Zdvihnúť
+[Decline]
+Zložiť
+[Calling]
+Volanie
+[Connecting]
+Pripája sa
+[Connected]
+Pripojené
+[Auto]
+Automaticky
+[Transport]
+Prenos
+[Incorrect Password]
+Nesprávne heslo
+[Public Address]
+Verejná adresa
+[Media Encryption]
+Šifrovanie
+[Disabled]
+Vypnuté
+[Optional]
+Voliteľné
+[Mandatory]
+Povinné
+[STUN Server]
+Server STUN
+[Presence Subscription]
+Odoberať stav prítomnosti
+[Ringing]
+Zvonenie
+[Call Ended]
+Hovor skončený
+[Declined]
+Odmietnuté
+[No address found]
+Adresa nenájdená
+[Request Terminated]
+Požiadavka ukončená
+[Away]
+Neprítomný
+[Publish Presence]
+Zverejňovať stav prítomnosti
+[Session Progress]
+Priebeh relácie
+[Camera]
+Kamera
+[Video Call]
+Videohovor
+[Answer with Video]
+Odpovedať videom
+[View Log File]
+Zobraziť súbor denníka
+[Microphone]
+Mikrofón
+[Speaker]
+Reproduktor
+[Audio Codecs]
+Zvukové kodeky
+[Video Codec]
+Videokodek
+[Check for Updates]
+Vyhľadať aktualizáciu
+[Daily]
+Denne
+[Weekly]
+Týždenne
+[Monthly]
+Mesačne
+[Quarterly]
+Štvrťročne
+[Never]
+Nikdy
+[Update Available]
+K dispozícii je aktualizácia
+[Do you want to update now?]
+Chcete aktualizovať?
+[Force Codec for Incoming]
+Vynútený kodec pre prichádzajúci
+[Available]
+Dostupné
+[Enabled]
+Použité
+[Disable H.264]
+Vypnúť H.264
+[Disable H.263+]
+Vypnúť H.263+
+[Invalid URI]
+Nesprávne URI
+[Offline]
+Odpojené
+[Single Call Mode]
+Režim jedného hovoru
+[Local Video]
+Lokálne video
+[Call Transfer]
+Prepojenie hovoru
+[final]
+posledný
+[Call transfered successfully, disconnecting call]
+Hovor bol úspešne presmerovaný, odpojenie hovoru
+[Hold]
+Podržať
+[Sound Events]
+Zvuky
+[Bitrate]
+Bitová rýchlosť
+[Login]
+Meno
+[Enable Log File]
+Zapnúť súbor denníka
+[Calls]
+História
+[Duration]
+Trvanie
+[Info]
+Stav
+[display password]
+zobraziť heslo
+[From]
+Od
+[To]
+Pre
+[Ring Device]
+Vyzváňanie
+[Service Unavailable]
+Služba nedostupná
+[Invalid Request URI]
+Chybná požiadavka URI
+[Busy Here]
+Obsadený
+[Trying]
+Pokúš sa
+[Method Not Allowed]
+Metóda nie je povolená
+[Not Found]
+Nenájdené
+[Always on Top]
+Vždy navrchu
+[Connect]
+Pripojiť
+[Last Call]
+Posledný h.
+[Close All]
+Zavrieť
+[Copy]
+Kopírovať
+[Select All]
+Vybrať všetko
+[Display Name]
+Vaše meno
+[Remember Details]
+Zapamätať detaily
+[PIN]
+[No]
+Nie
+[All Calls]
+Všetky hovory
+[SIP Header]
+Hlavička SIP
+[Different User]
+Iný používateľ
+[Different Domain]
+Iná doména
+[Different User or Domain]
+Iný používateľ alebo doména
+[Different Remote Domain]
+Iná vzdialená doména
+[Deny Incoming]
+Odmietnuť hovor
+[Allow IP Rewrite]
+Povoliť prepis IP
+[Directory of Users]
+Zoznam používateľov
+[Call on Remote Hold]
+Hovor je vzdialene pozdržaný
+[Call on Local Hold]
+Hovor je lokálne pozdržaný
+[Call on Hold]
+Hovor je pozdržaný
+[Call is Active]
+Hovor je aktívny
+[Menu]
+Menu
+[Edit Account]
+Upraviť konto
+[Add Account...]
+Pridať konto
+[Remove Account]
+Odstrániť účet
+[Make Active]
+Nastaviť ako aktívny
+[Are you sure you want to remove?]
+Ste si istý že chcete odstrániť ?
+[Call Pickup]
+Prijať hovor
+[Speaker Level]
+Úroveň reproduktora
+[Microphone Level]
+Úroveň mikrofónu
+[Mute Speaker]
+Vypnúť reproduktor
+[Mute Microphone]
+Vypnúť mikrofón
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+Prosím, vyplňte aspoň požadované polia označené *.
+[Ask your SIP provider how to configure the account correctly.]
+Opýtajte sa svojho poskytovateľa SIP, ako správne nakonfigurovať účet.
+[Random Position]
+Náhodné pozície odpovedí krabica
+[Time]
+Čas
+[Attended Transfer]
+Zúčastnili Prenos
+[Disable VP8]
+Vypnúť VP8
+[Launch URL on incoming call]
+[Enable Local Account]
+Umožniť Lokálne Konto
+[Send Crash Report]
+Poslať Crash Report
+[Account Name]
+Názov Účtu
+[Invite to Conference]
+Pozvať na Konferenciu
+[Merge]
+Zlúčiť
+[Separate]
+Samostatné
+[Disconnect]
+Odpojte
+[DTMF Method]
+DTMF Metóda
+[]

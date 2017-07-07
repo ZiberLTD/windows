@@ -1,0 +1,304 @@
+﻿Language Pack
+RTL: 1
+
+; utf8
+
+[Call]
+002001112023191اطلب الرقم
+[End Call]
+انهى المكالمة
+[Contacts]
+ارقام
+[Dialpad]
+اعرض
+[Account]
+الحساب
+[Settings]
+التعديلات
+[Visit Website]
+زر موقع مايكروسيب
+[Exit]
+الخروج
+[Ringing Sound]
+صوت الرنين
+[Browse...]
+تصفح
+[Default]
+m
+[Auto Answer]
+إجابة أوتوماتيكية
+[Disable Local Account]
+ثبط الحساب المحلى
+[OK]
+حسنا
+[Save]
+احفظ
+[Cancel]
+الغاء
+[SIP Server]
+خادم بروتوكول بدء الجلسة
+[SIP Proxy]
+بروكسي بروتوكول بدء الجلسة
+[User]
+مستخدم
+[Domain]
+0020
+[Password]
+كلمة مرور
+[Connecting...]
+يتصل ...
+[Online]
+متصل
+[Local]
+محلى
+[Message]
+رسالة
+[Edit]
+عدل
+[Delete]
+امسح
+[Add]
+اضف
+[Bad Gateway]
+m
+[Request Timeout]
+انتهت مهلة الطلب
+[Number]
+رقم
+[Name]
+اسم
+[Contact]
+رقم
+[Incoming Call]
+الواردة
+[Answer]
+القاهرة
+[Decline]
+رفض
+[Calling]
+الاتصال
+[Connecting]
+يتصل
+[Connected]
+متصل
+[Auto]
+آليا
+[Transport]
+وسيلة النقل
+[Incorrect Password]
+كلمة مرور خاطئة
+[Public Address]
+العنوان العمومي
+[Media Encryption]
+تشفير الميديا
+[Disabled]
+ثبط
+[Optional]
+اختيارى
+[Mandatory]
+اجبارى
+[STUN Server]
+خادم الستن
+[Presence Subscription]
+اشتراك الحضور
+[Ringing]
+الرنين
+[Call Ended]
+إنتهى الإتصال
+[Declined]
+رفضت
+[No address found]
+لم يوجد عنوان
+[Request Terminated]
+الغى الطلب
+[Away]
+غائب
+[Publish Presence]
+إعلان الحضور
+[Session Progress]
+تقدم الجلسة
+[Camera]
+كاميرا
+[Video Call]
+اتصال فيديو
+[Answer with Video]
+اجب مع فيديو
+[View Log File]
+مشاهدة ملف السجل
+[Microphone]
+اللاقط
+[Speaker]
+سماعة
+[Audio Codecs]
+كودك الصوت
+[Video Codec]
+برنامج ترميز الفيديو
+[Check for Updates]
+مراجعة التحديثات
+[Daily]
+تأخير
+[Weekly]
+اسبوعيا
+[Monthly]
+شهر
+[Quarterly]
+الفصلية
+[Never]
+ابدا
+[Update Available]
+تحديثات متوفرة
+[Do you want to update now?]
+هل تريد تحديث؟
+[Force Codec for Incoming]
+m
+[Available]
+متواجد
+[Enabled]
+فعّل
+[Disable H.264]
+ثبط H.264
+[Disable H.263+]
+ثبط H.263+
+[Invalid URI]
+m
+[Offline]
+غير متصل
+[Single Call Mode]
+وضعية الإتصال الواحد
+[Local Video]
+فيديوا محلى
+[Call Transfer]
+تحويل المكالمة
+[final]
+انتهى
+[Call transfered successfully, disconnecting call]
+حُولت المكالمة بنجاح, تفصل المكالمة
+[Hold]
+انتظار
+[Sound Events]
+أحداث الصوت
+[Bitrate]
+السرعة المطلوبة للمكالمة
+[Login]
+الدخول
+[Enable Log File]
+فعّل ملف اللوق
+[Calls]
+الاتصالات
+[Duration]
+فترة
+[Info]
+معلومات
+[display password]
+اعرض كلمة المرور
+[From]
+من
+[To]
+الى
+[Ring Device]
+الجهاز يرن
+[Service Unavailable]
+الخدمة غير متوفرة
+[Invalid Request URI]
+m
+[Busy Here]
+الخط مشغول
+[Trying]
+يحاول
+[Method Not Allowed]
+الطريقة غير مسموحة
+[Not Found]
+لا يوجد
+[Always on Top]
+دائما فى الاعلى
+[Connect]
+اتصل
+[Last Call]
+المكالمة الاخيرة
+[Close All]
+اغلق الجميع
+[Copy]
+نسخ
+[Select All]
+اختر الجميع
+[Display Name]
+essam
+[Remember Details]
+تذكر التفاصيل
+[PIN]
+[No]
+لا
+[All Calls]
+كل الإتصالات
+[SIP Header]
+ترويسة بروتوكول بدء الجلسة
+[Different User]
+مستخدم مختلف
+[Different Domain]
+نطاق مختلف
+[Different User or Domain]
+مستخدم الدليل
+[Different Remote Domain]
+نطاق مختلف بعيد
+[Deny Incoming]
+ارفض الوارده
+[Allow IP Rewrite]
+إعادة كتابة الأيبي أدرس
+[Directory of Users]
+مستخدمى الدليل
+[Call on Remote Hold]
+المكالمة فى الانتظار البعيد
+[Call on Local Hold]
+المكالمة فى الانتظار المحلى
+[Call on Hold]
+المكالمة فى الانتظار
+[Call is Active]
+الاتصال نشط
+[Menu]
+m
+[Edit Account]
+m
+[Add Account...]
+m
+[Remove Account]
+امسح الحساب
+[Make Active]
+m
+[Are you sure you want to remove?]
+m
+[Call Pickup]
+m
+[Speaker Level]
+مستوى مكبر الصوت
+[Microphone Level]
+m
+[Mute Speaker]
+كتم السماعات
+[Mute Microphone]
+m
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+من فضلك قم بملئ المجالات المطلوبةو المرموز لها ب *
+[Ask your SIP provider how to configure the account correctly.]
+اطلب من مزود بروتوكول بدء جلسة كيفية ضبط الحساب بشكل صحيح
+[Random Position]
+موقف عشوائي من مربع الإجابة
+[Time]
+مرة
+[Attended Transfer]
+[Disable VP8]
+ثبط VP8
+[Launch URL on incoming call]
+[Enable Local Account]
+تمكين حساب محلي
+[Send Crash Report]
+[Account Name]
+mustafa
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
+[DTMF Method]
+[]

@@ -1,0 +1,67 @@
+# ./libvpx/configure --target=x86-win32-vs9 --enable-static-msvcrt --disable-examples --disable-docs --enable-vp8 --disable-vp9 --disable-postproc --disable-unit_tests --disable-webm_io --disable-libyuv
+Configuring for target 'x86-win32-vs9'
+  enabling x86
+  disabling avx
+  disabling avx2
+check_cpp
+BEGIN /tmp/vpx-conf-10328-28882.c
+     1	#if !defined(__ILP32__) || !defined(__x86_64__)
+     2	#error "not x32"
+     3	#endif
+END /tmp/vpx-conf-10328-28882.c
+-o /tmp/vpx-conf-10328-28882.o /tmp/vpx-conf-10328-28882.c
+./libvpx/build/make/configure.sh: line 292: -E: command not found
+  enabling runtime_cpu_detect
+  enabling mmx
+  enabling sse
+  enabling sse2
+  enabling sse3
+  enabling ssse3
+  enabling sse4_1
+  using msvs
+check_cxxflags -DNDEBUG
+check_cxx -Werror -DNDEBUG
+BEGIN /tmp/vpx-conf-10328-28882.cc
+     1	int x;
+END /tmp/vpx-conf-10328-28882.cc
+-Werror -DNDEBUG -c -o /tmp/vpx-conf-10328-28882.o /tmp/vpx-conf-10328-28882.cc
+./libvpx/build/make/configure.sh: line 292: -Werror: command not found
+check_cflags -DNDEBUG
+check_cc -Werror -DNDEBUG
+BEGIN /tmp/vpx-conf-10328-28882.c
+     1	int x;
+END /tmp/vpx-conf-10328-28882.c
+-Werror -DNDEBUG -c -o /tmp/vpx-conf-10328-28882.o /tmp/vpx-conf-10328-28882.c
+./libvpx/build/make/configure.sh: line 292: -Werror: command not found
+check_cxxflags -O3
+check_cxx -Werror -O3
+BEGIN /tmp/vpx-conf-10328-28882.cc
+     1	int x;
+END /tmp/vpx-conf-10328-28882.cc
+-Werror -O3 -c -o /tmp/vpx-conf-10328-28882.o /tmp/vpx-conf-10328-28882.cc
+./libvpx/build/make/configure.sh: line 292: -Werror: command not found
+check_cflags -O3
+check_cc -Werror -O3
+BEGIN /tmp/vpx-conf-10328-28882.c
+     1	int x;
+END /tmp/vpx-conf-10328-28882.c
+-Werror -O3 -c -o /tmp/vpx-conf-10328-28882.o /tmp/vpx-conf-10328-28882.c
+./libvpx/build/make/configure.sh: line 292: -Werror: command not found
+  enabling use_x86inc
+check_cc
+BEGIN /tmp/vpx-conf-10328-28882.c
+     1	unsigned int e = 'O'<<24 | '2'<<16 | 'B'<<8 | 'E';
+END /tmp/vpx-conf-10328-28882.c
+-c -o /tmp/vpx-conf-10328-28882.o /tmp/vpx-conf-10328-28882.c
+./libvpx/build/make/configure.sh: line 292: -c: command not found
+check_cc
+BEGIN /tmp/vpx-conf-10328-28882.c
+     1	static inline function() {}
+END /tmp/vpx-conf-10328-28882.c
+-c -o /tmp/vpx-conf-10328-28882.o /tmp/vpx-conf-10328-28882.c
+./libvpx/build/make/configure.sh: line 292: -c: command not found
+  disabling ccache
+fake_check_header stdio.h
+fake_check_header pthread.h
+fake_check_header unistd.h
+fake_check_header vpx/vpx_integer.h -I./libvpx

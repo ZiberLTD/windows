@@ -1,0 +1,238 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Trucada
+[End Call]
+[Contacts]
+Contactes
+[Dialpad]
+Marcació
+[Account]
+Compte
+[Settings]
+Opcions
+[Visit Website]
+Visita la web
+[Exit]
+Surt
+[Ringing Sound]
+So de trucada
+[Browse...]
+Examinar...
+[Default]
+Per defecte
+[Auto Answer]
+Resposta automàtica
+[Disable Local Account]
+[OK]
+D'acord
+[Save]
+Desa
+[Cancel]
+Cancel·la
+[SIP Server]
+Servidor SIP
+[SIP Proxy]
+Proxy SIP
+[User]
+Usuari
+[Domain]
+Domini
+[Password]
+Clau
+[Connecting...]
+Connectant...
+[Online]
+Connectat
+[Local]
+[Message]
+[Edit]
+Edita
+[Delete]
+Esborra
+[Add]
+Afegeix
+[Bad Gateway]
+[Request Timeout]
+[Number]
+[Name]
+Nom
+[Contact]
+Contacte
+[Incoming Call]
+[Answer]
+Contestar
+[Decline]
+Rebutja
+[Calling]
+Trucant
+[Connecting]
+Connectant
+[Connected]
+Connectat
+[Auto]
+Automàtic
+[Transport]
+Transport
+[Incorrect Password]
+Clau errònia
+[Public Address]
+[Media Encryption]
+[Disabled]
+[Optional]
+Opcional
+[Mandatory]
+[STUN Server]
+Servidor STUN
+[Presence Subscription]
+[Ringing]
+Trucant
+[Call Ended]
+Trucada finalitzada
+[Declined]
+Rebutjat
+[No address found]
+[Request Terminated]
+[Away]
+Absent
+[Publish Presence]
+[Session Progress]
+Progrés de la sessió
+[Camera]
+Càmera
+[Video Call]
+Trucada de vídeo
+[Answer with Video]
+Contestar amb video
+[View Log File]
+Veure fitxer de log
+[Microphone]
+[Speaker]
+Altaveu
+[Audio Codecs]
+Còdecs d'audio
+[Video Codec]
+Còdecs de vídeo
+[Check for Updates]
+Comprova actualitzacions
+[Daily]
+Diari
+[Weekly]
+Setmanal
+[Monthly]
+[Quarterly]
+[Never]
+Mai
+[Update Available]
+Actualització disponible
+[Do you want to update now?]
+Vols actualitzar?
+[Force Codec for Incoming]
+[Available]
+Disponible
+[Enabled]
+[Disable H.264]
+Desactiva H.264
+[Disable H.263+]
+Desactiva H.263+
+[Invalid URI]
+[Offline]
+Desconnectat
+[Single Call Mode]
+Mode de trucada única
+[Local Video]
+[Call Transfer]
+Transferir trucada
+[final]
+[Call transfered successfully, disconnecting call]
+Trucada transferida amb èxit, desconnectant trucada
+[Hold]
+[Sound Events]
+Events sonors
+[Bitrate]
+[Login]
+[Enable Log File]
+[Calls]
+Trucades
+[Duration]
+Duració
+[Info]
+[display password]
+Mostra la clau
+[From]
+[To]
+Per a
+[Ring Device]
+Dispositiu de trucada
+[Service Unavailable]
+Servei no disponible
+[Invalid Request URI]
+[Busy Here]
+Ocupat
+[Trying]
+Comprovant
+[Method Not Allowed]
+[Not Found]
+[Always on Top]
+Sempre visible
+[Connect]
+Connectar
+[Last Call]
+[Close All]
+Tancar-ho tot
+[Copy]
+Copia
+[Select All]
+Seleccionar tot
+[Display Name]
+El teu nom
+[Remember Details]
+[PIN]
+[No]
+[All Calls]
+[SIP Header]
+[Different User]
+[Different Domain]
+[Different User or Domain]
+[Different Remote Domain]
+[Deny Incoming]
+[Allow IP Rewrite]
+[Directory of Users]
+[Call on Remote Hold]
+[Call on Local Hold]
+[Call on Hold]
+[Call is Active]
+[Menu]
+[Edit Account]
+[Add Account...]
+[Remove Account]
+[Make Active]
+[Are you sure you want to remove?]
+[Call Pickup]
+[Speaker Level]
+[Microphone Level]
+[Mute Speaker]
+[Mute Microphone]
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+[Ask your SIP provider how to configure the account correctly.]
+[Random Position]
+[Time]
+[Attended Transfer]
+[Disable VP8]
+Desactiva VP8
+[Launch URL on incoming call]
+[Enable Local Account]
+[Send Crash Report]
+[Account Name]
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
+[DTMF Method]
+[]

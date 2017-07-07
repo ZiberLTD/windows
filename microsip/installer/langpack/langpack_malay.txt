@@ -1,0 +1,202 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Pangil
+[End Call]
+[Contacts]
+[Dialpad]
+[Account]
+Akaun
+[Settings]
+Tetapan
+[Visit Website]
+[Exit]
+Keluar
+[Ringing Sound]
+[Browse...]
+[Default]
+[Auto Answer]
+[Disable Local Account]
+[OK]
+OK
+[Save]
+Simpan
+[Cancel]
+[SIP Server]
+[SIP Proxy]
+[User]
+[Domain]
+Domain
+[Password]
+Kata Laluan
+[Connecting...]
+[Online]
+[Local]
+[Message]
+Mesej
+[Edit]
+Ubah
+[Delete]
+Padam
+[Add]
+Tambah
+[Bad Gateway]
+[Request Timeout]
+[Number]
+Nombor
+[Name]
+Nama
+[Contact]
+[Incoming Call]
+[Answer]
+Jawab
+[Decline]
+[Calling]
+Memanggil
+[Connecting]
+[Connected]
+[Auto]
+[Transport]
+[Incorrect Password]
+[Public Address]
+[Media Encryption]
+[Disabled]
+[Optional]
+[Mandatory]
+[STUN Server]
+[Presence Subscription]
+[Ringing]
+[Call Ended]
+Panggilan Tamat
+[Declined]
+[No address found]
+Tiada alamat dijumpai
+[Request Terminated]
+[Away]
+Tiada
+[Publish Presence]
+[Session Progress]
+[Camera]
+Kamera
+[Video Call]
+Panggilan Video
+[Answer with Video]
+Jawab dengan video
+[View Log File]
+[Microphone]
+[Speaker]
+[Audio Codecs]
+[Video Codec]
+[Check for Updates]
+[Daily]
+Harian
+[Weekly]
+Mingguan
+[Monthly]
+[Quarterly]
+[Never]
+Tidak sama sekali
+[Update Available]
+[Do you want to update now?]
+[Force Codec for Incoming]
+[Available]
+Sedia
+[Enabled]
+[Disable H.264]
+[Disable H.263+]
+[Invalid URI]
+[Offline]
+[Single Call Mode]
+[Local Video]
+[Call Transfer]
+[final]
+[Call transfered successfully, disconnecting call]
+[Hold]
+Menunggu
+[Sound Events]
+[Bitrate]
+[Login]
+[Enable Log File]
+[Calls]
+[Duration]
+Durasi
+[Info]
+[display password]
+[From]
+Daripada
+[To]
+Kepada
+[Ring Device]
+[Service Unavailable]
+[Invalid Request URI]
+[Busy Here]
+Sedang Sibuk
+[Trying]
+Mencuba
+[Method Not Allowed]
+[Not Found]
+Tidak Dijumpai
+[Always on Top]
+[Connect]
+[Last Call]
+[Close All]
+Tutup Semua
+[Copy]
+Salin
+[Select All]
+Simpan Semua
+[Display Name]
+Nama anda
+[Remember Details]
+[PIN]
+[No]
+Tidak
+[All Calls]
+Semua Panggilan
+[SIP Header]
+[Different User]
+[Different Domain]
+[Different User or Domain]
+[Different Remote Domain]
+[Deny Incoming]
+[Allow IP Rewrite]
+test
+[Directory of Users]
+[Call on Remote Hold]
+[Call on Local Hold]
+[Call on Hold]
+[Call is Active]
+Panggilan Aktif
+[Menu]
+[Edit Account]
+[Add Account...]
+[Remove Account]
+[Make Active]
+[Are you sure you want to remove?]
+[Call Pickup]
+[Speaker Level]
+[Microphone Level]
+[Mute Speaker]
+[Mute Microphone]
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+[Ask your SIP provider how to configure the account correctly.]
+[Random Position]
+[Time]
+[Attended Transfer]
+[Disable VP8]
+[Launch URL on incoming call]
+[Enable Local Account]
+[Send Crash Report]
+[Account Name]
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
+[DTMF Method]
+[]

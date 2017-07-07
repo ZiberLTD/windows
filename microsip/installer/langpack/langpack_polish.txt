@@ -1,0 +1,310 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Zadzwoń
+[End Call]
+Zakończ
+[Contacts]
+Kontakty
+[Dialpad]
+Klawiatura
+[Account]
+Konto
+[Settings]
+Opcje programu MicroSIP
+[Visit Website]
+Zapraszamy na Naszą stronę
+[Exit]
+Wyjście
+[Ringing Sound]
+Dźwięki dzwonka
+[Browse...]
+Przeglądaj...
+[Default]
+Domyślne
+[Auto Answer]
+Automatyczny odbiór
+[Disable Local Account]
+Wyłącz lokalne konto
+[OK]
+OK
+[Save]
+Zapisz
+[Cancel]
+Rezygnuj
+[SIP Server]
+Serwer SIP
+[SIP Proxy]
+SIP Proxy
+[User]
+Login użytkownika
+[Domain]
+Domena
+[Password]
+Hasło
+[Connecting...]
+Łączenie...
+[Online]
+Połączony
+[Local]
+Lokalny
+[Message]
+Wiadomość
+[Edit]
+Edytuj
+[Delete]
+Usuń
+[Add]
+Dodaj nowy kontakt
+[Bad Gateway]
+Niepoprawna bramka
+[Request Timeout]
+Limit czasu żądania
+[Number]
+Numer
+[Name]
+Nazwa
+[Contact]
+Kontakt
+[Incoming Call]
+Połączenie przychodzące
+[Answer]
+Odbierz
+[Decline]
+Odrzuć
+[Calling]
+Dzwonię do
+[Connecting]
+Łączenie...
+[Connected]
+Połączony
+[Auto]
+Automatyczny
+[Transport]
+Transport
+[Incorrect Password]
+Niewłaściwe hasło
+[Public Address]
+Publiczny adres
+[Media Encryption]
+Szyfrowanie
+[Disabled]
+Wyłączone
+[Optional]
+Opcjonalnie
+[Mandatory]
+Obowiązkowe
+[STUN Server]
+Serwer STUN
+[Presence Subscription]
+Subskrypcja obecności
+[Ringing]
+Dzwonię
+[Call Ended]
+Połączenie zakończone
+[Declined]
+Odrzucone
+[No address found]
+Nie znaleziono adresu
+[Request Terminated]
+Żądanie anulowane
+[Away]
+Z dala od komputera
+[Publish Presence]
+Publikuj status
+[Session Progress]
+Postęp sesji
+[Camera]
+Kamera
+[Video Call]
+Zadzwoń z video
+[Answer with Video]
+Odbierz z video
+[View Log File]
+Wyświetl plik logu
+[Microphone]
+Mikrofon
+[Speaker]
+Głośnik
+[Audio Codecs]
+Kodeki audio
+[Video Codec]
+Kodeki video
+[Check for Updates]
+Sprawdź aktualizacje
+[Daily]
+Codziennie
+[Weekly]
+Co tydzień
+[Monthly]
+Co miesiąc
+[Quarterly]
+Co kwartał
+[Never]
+Nigdy
+[Update Available]
+Dostępna aktualizacja
+[Do you want to update now?]
+Czy chcesz uaktualnić?
+[Force Codec for Incoming]
+Wymuś kodek dla przychodzących
+[Available]
+Dostępne
+[Enabled]
+Włączone
+[Disable H.264]
+Wyłącz H.264
+[Disable H.263+]
+Wyłącz H.263+
+[Invalid URI]
+Nieprawidłowy URI
+[Offline]
+Offline
+[Single Call Mode]
+Tryb pojedynczego połączenia
+[Local Video]
+Obraz lokalny
+[Call Transfer]
+Przekazywanie połączenia
+[final]
+Ostateczny
+[Call transfered successfully, disconnecting call]
+Połączenie przekazane pomyślnie, rozłączanie
+[Hold]
+Zawieś
+[Sound Events]
+Lokalne odtwarzanie tonów DTMF
+[Bitrate]
+Bitrate
+[Login]
+Login
+[Enable Log File]
+Włącz logowanie do pliku
+[Calls]
+Połączenia
+[Duration]
+Czas trwania
+[Info]
+Info
+[display password]
+Wyświetl hasło
+[From]
+Od
+[To]
+Do
+[Ring Device]
+Dzwonek
+[Service Unavailable]
+Usługa niedostępna
+[Invalid Request URI]
+Nieprawidłowe żądanie URI
+[Busy Here]
+Zajęty
+[Trying]
+Próbuję
+[Method Not Allowed]
+Metoda niedozwolona
+[Not Found]
+Nie znaleziono
+[Always on Top]
+Zawsze na wierzchu
+[Connect]
+Połącz
+[Last Call]
+Ostatnie połączenie
+[Close All]
+Zamknij wszystko
+[Copy]
+Kopiuj
+[Select All]
+Wszystko
+[Display Name]
+Przyjazna nazwa konta
+[Remember Details]
+Zapamiętaj szczegóły
+[PIN]
+[No]
+Nie
+[All Calls]
+Wszystkie połączenia
+[SIP Header]
+Nagłówek SIP
+[Different User]
+Inny użytkownik
+[Different Domain]
+Inna domena
+[Different User or Domain]
+Inny użytkownik lub domena
+[Different Remote Domain]
+Inna zdalna domena
+[Deny Incoming]
+Odrzuć przychodzące
+[Allow IP Rewrite]
+Pozwól przepisać IP
+[Directory of Users]
+Katalog użytkowników
+[Call on Remote Hold]
+Rozmowa zawieszona zdalnie
+[Call on Local Hold]
+Rozmowa zawieszona lokalnie
+[Call on Hold]
+Rozmowa zawieszona
+[Call is Active]
+Rozmowa aktywna
+[Menu]
+Menu
+[Edit Account]
+Edytuj konto
+[Add Account...]
+Dodaj konto
+[Remove Account]
+Usuń konto
+[Make Active]
+Uaktywnij
+[Are you sure you want to remove?]
+Na pewno chcesz usunąć?
+[Call Pickup]
+Przyjęcie połączenia
+[Speaker Level]
+Głośność głośnika
+[Microphone Level]
+Głośność mikrofonu
+[Mute Speaker]
+Wycisz głośnik
+[Mute Microphone]
+Wycisz mikrofon
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+Proszę wypełnić przynajmniej pola oznaczone *.
+[Ask your SIP provider how to configure the account correctly.]
+Spytaj swojego operatora SIP jak prawidłowo skonfigurować konto.
+[Random Position]
+Losowa pozycja odpowiedzi
+[Time]
+Czas
+[Attended Transfer]
+Przekierowanie
+[Disable VP8]
+Wyłącz VP8
+[Launch URL on incoming call]
+[Enable Local Account]
+Aktywne konto lokalne
+[Send Crash Report]
+Wyślij raport błędu
+[Account Name]
+Nazwa konta
+[Invite to Conference]
+Zaproszenie do konferencji
+[Merge]
+Scalać
+[Separate]
+Rozdzielać
+[Disconnect]
+Rozłącz
+[DTMF Method]
+[]

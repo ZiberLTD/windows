@@ -1,0 +1,310 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Κλήση
+[End Call]
+Τερματισμός
+[Contacts]
+Επαφές
+[Dialpad]
+Πληκτρ/γιο
+[Account]
+Λογαριασμός
+[Settings]
+Ρυθμίσεις
+[Visit Website]
+Επίσκεψη στην ιστοσελίδα
+[Exit]
+Έξοδος
+[Ringing Sound]
+Ήχος κουδουνίσματος
+[Browse...]
+Εύρεση...
+[Default]
+Προεπιλογή
+[Auto Answer]
+Αυτόματη απάντηση
+[Disable Local Account]
+Απενεργοποίηση τοπικού λογαριασμού
+[OK]
+Εντάξει
+[Save]
+Αποθήκευση
+[Cancel]
+Άκυρο
+[SIP Server]
+Διακομιστής SIP
+[SIP Proxy]
+Διαμεσολαβητής SIP
+[User]
+Χρήστης
+[Domain]
+Τομέας
+[Password]
+Kωδικός πρόσβασης
+[Connecting...]
+Σύνδεση...
+[Online]
+Με σύνδεση
+[Local]
+Τοπική
+[Message]
+Μήνυμα
+[Edit]
+Επεξεργασία
+[Delete]
+Διαγραφή
+[Add]
+Προσθήκη
+[Bad Gateway]
+Εσφαλμένη πύλη
+[Request Timeout]
+Λήξη χρονικού ορίου
+[Number]
+Νούμερο
+[Name]
+Όνομα
+[Contact]
+Επαφή
+[Incoming Call]
+Εισερχόμενη κλήση
+[Answer]
+Απάντηση
+[Decline]
+Απόρριψη
+[Calling]
+Κλήση
+[Connecting]
+Σύνδεση
+[Connected]
+Συνδέθηκε
+[Auto]
+Αυτόματα
+[Transport]
+Μεταφορά
+[Incorrect Password]
+Εσφαλμένος κωδικός πρόσβασης
+[Public Address]
+Δημόσια διεύθυνση
+[Media Encryption]
+Κρυπτ/ση πολυμέσων
+[Disabled]
+Απενεργοποιημένη
+[Optional]
+Προαιρετικά
+[Mandatory]
+Υποχρεωτικά
+[STUN Server]
+Διακομιστής STUN
+[Presence Subscription]
+Συνδρομή παρουσίας
+[Ringing]
+Κουδούνισμα
+[Call Ended]
+Η κλήση τερματίστηκε
+[Declined]
+Απορρίφθηκε
+[No address found]
+Δεν βρέθηκε η διεύθυνση
+[Request Terminated]
+Το αίτημα τερματίστηκε
+[Away]
+Απουσιάζω
+[Publish Presence]
+Αναφορά παρουσίας
+[Session Progress]
+Πρόοδος περιόδου λειτουργίας
+[Camera]
+Κάμερα
+[Video Call]
+Βιντεοκλήση
+[Answer with Video]
+Απάντηση με βίντεο
+[View Log File]
+Προβολή αρχείου καταγραφής
+[Microphone]
+Μικρόφωνο
+[Speaker]
+Ηχείο
+[Audio Codecs]
+Κωδικοποιητές ήχου
+[Video Codec]
+Κωδικοποιητής βίντεο
+[Check for Updates]
+Έλεγχος για ενημερώσεις
+[Daily]
+Καθημερινά
+[Weekly]
+Κάθε εβδομάδα
+[Monthly]
+Κάθε μήνα
+[Quarterly]
+Κάθε τρίμηνο
+[Never]
+Ποτέ
+[Update Available]
+Διαθέσιμη ενημερωμένη έκδοση
+[Do you want to update now?]
+Θέλετε να ενημερώσετε;
+[Force Codec for Incoming]
+Εξαναγκασμός κωδικοποίησης εισερχομένων
+[Available]
+Διαθέσιμοι
+[Enabled]
+Ενεργοποιημένοι
+[Disable H.264]
+Απενεργοποίηση H.264
+[Disable H.263+]
+Απενεργοποίηση H.263+
+[Invalid URI]
+Μη έγκυρο URI
+[Offline]
+Εκτός σύνδεσης
+[Single Call Mode]
+Ενιαίος τρόπος κλήσης
+[Local Video]
+Τοπικό βίντεο
+[Call Transfer]
+Μεταφορά κλήσης
+[final]
+τελικό
+[Call transfered successfully, disconnecting call]
+Η κλήση μεταφέρθηκε επιτυχώς. Αποσύνδεση κλήσης
+[Hold]
+Αναμονή
+[Sound Events]
+Αναπαραγωγή τοπικά DTMF
+[Bitrate]
+Ρυθμός bit
+[Login]
+Σύνδεση
+[Enable Log File]
+Ενεργοποίηση αρχείου καταγραφής
+[Calls]
+Κλήσεις
+[Duration]
+Διάρκεια
+[Info]
+Πληροφορίες
+[display password]
+Εμφάνιση κωδικού
+[From]
+Από
+[To]
+Σε
+[Ring Device]
+Συσκευή κουδουνιού
+[Service Unavailable]
+Η υπηρεσία δεν είναι διαθέσιμη
+[Invalid Request URI]
+Μη έγκυρο αίτημα URI
+[Busy Here]
+Απασχολημένο εδώ
+[Trying]
+Προσπάθεια
+[Method Not Allowed]
+Η μέθοδος δεν επιτρέπεται
+[Not Found]
+Δεν βρέθηκε
+[Always on Top]
+Πάντα στην κορυφή
+[Connect]
+Σύνδεση
+[Last Call]
+Τελευταία κλήση
+[Close All]
+Κλείσιμο όλων
+[Copy]
+Αντιγραφή
+[Select All]
+Επιλογή όλων
+[Display Name]
+Το όνομά σου
+[Remember Details]
+Απομνημόνευση λεπτομεριών
+[PIN]
+[No]
+Όχι
+[All Calls]
+Όλες οι κλήσεις
+[SIP Header]
+Κεφαλίδα SIP
+[Different User]
+Διαφορετικός χρήστης
+[Different Domain]
+Διαφορετικός τομέας
+[Different User or Domain]
+Διαφορετικός χρήστης ή τομέας
+[Different Remote Domain]
+Διαφορετικός απομακρυσμένος τομέας
+[Deny Incoming]
+Φραγή εισερχομένων
+[Allow IP Rewrite]
+Επιτρέπεται η επανεγγραφή IP
+[Directory of Users]
+Λίστα χρηστών
+[Call on Remote Hold]
+Κλήση από απομακρυσμένη αναμονή
+[Call on Local Hold]
+Κλήση από τοπική αναμονή
+[Call on Hold]
+Κλήση σε αναμονή
+[Call is Active]
+Η κλήση είναι ενεργή
+[Menu]
+Μενού
+[Edit Account]
+Επεξεργασία λογαριασμού
+[Add Account...]
+Προσθήκη λογαριασμού...
+[Remove Account]
+Αφαίρεση λογαριασμού
+[Make Active]
+Ενεργοποίηση
+[Are you sure you want to remove?]
+Είστε σίγουροι ότι θέλετε να αφαιρεθεί;
+[Call Pickup]
+Αποδοχή κλήσης
+[Speaker Level]
+Ένταση ηχείου
+[Microphone Level]
+Ένταση μικροφώνου
+[Mute Speaker]
+Σίγαση ηχείου
+[Mute Microphone]
+Σίγαση μικροφώνου
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+Συμπληρώστε τουλάχιστον τα υποχρεωτικά πεδία που είναι σημειωμένα με *.
+[Ask your SIP provider how to configure the account correctly.]
+Ρωτήστε τον πάροχο SIP τηλεφωνίας σας σχετικά με τη σωστή ρύθμιση του λογαριασμού χρήστη.
+[Random Position]
+Τυχαία θέση της εισερχόμενης κλήσης κουτί
+[Time]
+Χρόνος
+[Attended Transfer]
+[Disable VP8]
+Απενεργοποίηση VP8
+[Launch URL on incoming call]
+[Enable Local Account]
+Ενεργοποίηση τοπικού λογαριασμού
+[Send Crash Report]
+Αποστολή αναφοράς προβλήματος
+[Account Name]
+Όνομα λογαριασμού
+[Invite to Conference]
+Πρόσκληση σε Διάσκεψη
+[Merge]
+Συγχώνευση
+[Separate]
+Διαχωρισμός
+[Disconnect]
+Αποσύνδεση
+[DTMF Method]
+Μέθοδος DTMF
+[]

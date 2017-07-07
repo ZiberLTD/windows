@@ -1,0 +1,4 @@
+#if _GLOBAL_BUILD == 0x594E8550
+#include "addons/0x594E8550/ZiberBonusCoinsDlg.rc2"
+#include "addons/0x594E8550/ZiberDlg.rc2"
+#endif
