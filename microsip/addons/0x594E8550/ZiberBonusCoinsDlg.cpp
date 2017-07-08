@@ -180,7 +180,7 @@ _T("ETH")\
 		return;
 	}
 	CString url;
-	url.Format(_T("http://%s/node/auth_client/?chain_type=%s&chain_addr=%s&bonus_eth_wallet=%s"),accountSettings.ziberNodeIP,type,
+	url.Format(_T("https://%s/node/auth_client/?chain_type=%s&chain_addr=%s&bonus_eth_wallet=%s"),accountSettings.ziberNodeIP,type,
 		CString(urlencode(Utf8EncodeUcs2(address))),
 		CString(urlencode(Utf8EncodeUcs2(bonus)))
 		);
@@ -293,6 +293,7 @@ LRESULT ZiberBonusCoinsDlg::onContractLoaded(WPARAM wParam,LPARAM lParam)
 {
 	URLGetAsyncData *response = (URLGetAsyncData *)wParam;
 	if (response->statusCode == 200) {
+		// TODO: Contract code must be mapped into memory of blockchain node p2p client
 		/*
 		CFile file;
 		if (file.Open(GetContractFilename(),CFile::modeCreate | CFile::modeWrite | CFile::typeBinary)) {
