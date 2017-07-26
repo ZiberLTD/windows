@@ -43,8 +43,8 @@ using namespace MSIP;
 #define new DEBUG_NEW
 #endif
 
-static CString ziberNodes = _T("5.154.190.149;Moldova, Chisinau;MD;;\
-5.154.191.70;Romania, Bucharest;MD;;\
+static CString ziberNodes = _T("5.154.190.149;Moldova, Chisinau;MD;\
+5.154.191.70;Moldova, Bucharest;MD;\
 91.195.103.68;Czech Republic, Praha;CZ;\
 134.19.181.44;Netherlands, Alblasserdam;NL;\
 213.152.168.133;Netherlands, Rotterdam;NL;\
@@ -53,6 +53,7 @@ static CString ziberNodes = _T("5.154.190.149;Moldova, Chisinau;MD;;\
 91.197.232.105;Czech Republic, Praha;CZ;\
 91.197.233.100;Czech Republic, Praha;CZ;\
 91.211.0.10;Sweden, Molkom;SE;\
+91.211.1.102;Sweden, Molkom;SE;\
 162.222.192.38;United States, Las Vegas;US;\
 162.222.193.5;United States, Las Vegas;US;\
 162.222.194.133;United States, Las Vegas;US;\
@@ -60,18 +61,22 @@ static CString ziberNodes = _T("5.154.190.149;Moldova, Chisinau;MD;;\
 85.93.17.18;Germany, Biebergemuend;DE;\
 89.144.9.135;Germany, Biebergemuend;DE;\
 89.144.21.45;Germany, Biebergemuend;DE;\
+193.169.87.80;Ukraine, Kharkiv;UA;\
 193.203.49.204;Ukraine, Kharkiv;UA;\
 94.102.53.123;Netherlands, Amsterdam;NL;\
 89.248.173.193;Netherlands, Amsterdam;NL;\
 190.123.46.10;Panama, Panama City;PA;\
 200.63.45.254;Panama, Panama City;PA;\
+176.119.5.146;Ukraine, Luhansk;UA;\
+176.119.0.114;Ukraine, Luhansk;UA;\
 210.16.103.157;India, Bengaluru;IN;\
+103.242.116.91;India, New Delhi;IN;\
 103.214.146.34;Hong Kong, Ha Kwai Chung;HK;\
 43.224.234.85;Hong Kong, Kwai Chung;HK;\
 165.84.167.173;Hong Kong, Kwai Chung;HK;\
 95.215.60.203;Spain, Valencia;ES;\
 94.242.204.58;Luxembourg, Bissen;LU;\
-94.242.218.138;Luxembourg, Luxembourg;LU;\
+94.242.231.194;Luxembourg, Luxembourg;LU;\
 77.81.111.101;Romania, Navodari;RO;\
 85.204.49.129;Romania, Navodari;RO;\
 77.81.104.28;Romania, Bucharest;RO;\
@@ -91,6 +96,8 @@ static CString ziberNodes = _T("5.154.190.149;Moldova, Chisinau;MD;;\
 104.156.232.71;Australia, Sydney;AU;\
 45.32.246.62;Australia, Alexandria;AU;\
 108.61.251.83;Australia, Alexandria;AU;\
+31.192.111.145;Russian Federation, Moscow;RU;\
+91.218.115.45;Russian Federation, Moscow;RU;\
 91.218.247.176;Russian Federation, Moscow;RU;\
 141.105.70.158;Russian Federation, Moscow;RU;");
 
