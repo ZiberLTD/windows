@@ -78,4 +78,3 @@ public:
 #endif
 	virtual BOOL PreTranslateMessage(MSG* pMsg);
 };
-
