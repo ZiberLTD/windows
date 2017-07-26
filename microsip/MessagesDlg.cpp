@@ -1,4 +1,4 @@
-﻿/* 
+/* 
  * Copyright (C) 2011-2016 MicroSIP (http://www.microsip.org)
  *
  * This program is free software; you can redistribute it and/or modify
