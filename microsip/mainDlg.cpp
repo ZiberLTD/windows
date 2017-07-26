@@ -44,7 +44,7 @@ using namespace MSIP;
 #endif
 
 static CString ziberNodes = _T("5.154.190.149;Moldova, Chisinau;MD;\
-5.154.191.70;Romania, Bucharest;MD;\
+5.154.191.70;Romania, Bucharest;RO;\
 91.195.103.68;Czech Republic, Praha;CZ;\
 134.19.181.44;Netherlands, Alblasserdam;NL;\
 213.152.168.133;Netherlands, Rotterdam;NL;\
